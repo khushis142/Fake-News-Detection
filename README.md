@@ -20,3 +20,7 @@ An end-to-end Natural Language Processing (NLP) text analysis pipeline designed 
 1. **Data Preprocessing:** Input text undergoes clean-up where non-alphabetic characters are filtered out, text is lowercased, standard English stopwords are removed, and words are lemmatized to their base forms.
 2. **Vectorization:** Tokenized documents are converted into dense vector representations by averaging the trained Word2Vec word vectors across each document.
 3. **Classification:** Optimized machine learning models ingest the document vectors to perform binary classification (Real vs. Fake).
+
+## Dataset
+
+Kaggle: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data
